@@ -29,11 +29,11 @@
 ![REACT](https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=REACT&labelColor=0D1117)&nbsp;
 ![IONIC](https://img.shields.io/badge/-IONIC-0D1117?style=for-the-badge&logo=IONIC&labelColor=0D1117)&nbsp;
 ![NESTJS](https://img.shields.io/badge/-NESTJS-0D1117?style=for-the-badge&logo=NESTJS&labelColor=0D1117)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=Flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=Flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![.Net](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.Net&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
