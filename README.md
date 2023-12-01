@@ -27,7 +27,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=TYPESCRIPT&labelColor=0D1117)&nbsp;
 ![ANGULAR](https://img.shields.io/badge/-ANGULAR-0D1117?style=for-the-badge&logo=ANGULAR&labelColor=0D1117)&nbsp;
 ![REACT](https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=REACT&labelColor=0D1117)&nbsp;
-![NODE](https://img.shields.io/badge/-NODEJS-0D1117?style=for-the-badge&logo=NODE&labelColor=0D1117)&nbsp;
+![NODE](https://img.shields.io/badge/-NODE-0D1117?style=for-the-badge&logo=NODE&labelColor=0D1117)&nbsp;
 ![IONIC](https://img.shields.io/badge/-IONIC-0D1117?style=for-the-badge&logo=IONIC&labelColor=0D1117)&nbsp;
 ![NESTJS](https://img.shields.io/badge/-NESTJS-0D1117?style=for-the-badge&logo=NESTJS&labelColor=0D1117)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
