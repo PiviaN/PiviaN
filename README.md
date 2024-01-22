@@ -37,6 +37,6 @@
 
 ![.Net](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.Net&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
-![VueJS](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=vuejs&labelColor=0D1117&textColor=0D1117)&nbsp;
+![VueJS](https://img.shields.io/badge/-vuejs-0D1117?style=for-the-badge&logo=vuejs&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
