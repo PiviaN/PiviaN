@@ -27,6 +27,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=TYPESCRIPT&labelColor=0D1117)&nbsp;
 ![ANGULAR](https://img.shields.io/badge/-ANGULAR-0D1117?style=for-the-badge&logo=ANGULAR&labelColor=0D1117)&nbsp;
 ![REACT](https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=REACT&labelColor=0D1117)&nbsp;
+![VueJS](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=Vue&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![NODE](https://img.shields.io/badge/-NODE-0D1117?style=for-the-badge&logo=NODE&labelColor=0D1117)&nbsp;
 ![IONIC](https://img.shields.io/badge/-IONIC-0D1117?style=for-the-badge&logo=IONIC&labelColor=0D1117)&nbsp;
 ![NESTJS](https://img.shields.io/badge/-NESTJS-0D1117?style=for-the-badge&logo=NESTJS&labelColor=0D1117)&nbsp;
@@ -37,6 +38,6 @@
 
 ![.Net](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.Net&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
-![VueJS](https://img.shields.io/badge/-VueJS-0D1117?style=for-the-badge&logo=Vuejs&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
