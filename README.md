@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+ &nbsp;
+
  <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiviaN&layout=compact&hide_border=true&title_color=20B2AA&text_color=FFA500&bg_color=0d1117" />
 </div>
