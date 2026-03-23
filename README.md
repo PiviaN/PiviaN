@@ -7,7 +7,6 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PiviaN&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=FFA500&text_color=FFA500&bg_color=0d1117" alt="PiviaN github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiviaN&layout=compact&hide_border=true&title_color=20B2AA&text_color=FFA500&bg_color=0d1117" />
 </div>
 
