@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Nepomuceno;I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiviaN&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center"> 
 <a href="https://instagram.com/pedrovsn_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:pedro.vsnep2001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
