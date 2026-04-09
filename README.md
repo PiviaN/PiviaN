@@ -11,10 +11,6 @@
 
  &nbsp;
 
- <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiviaN&layout=compact&hide_border=true&title_color=20B2AA&text_color=FFA500&bg_color=0d1117" />
-</div>
-
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=purple&labelColor=0D1117)&nbsp;
